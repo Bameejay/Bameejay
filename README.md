@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/johnsonfrancis/image/upload/v1649079036/tile_background_2_rkzrse.png)
 <h1 align="center">Hi 👋, I'm Johnson Francis</h1>
 <h3 align="center">A passionate web developer and Tech Enthusiast from Lagos, Nigeria.</h3>
-<img align="right" alt="Coding" width="150" height="250" src="https://res.cloudinary.com/johnsonfrancis/image/upload/r_27/v1649076486/Man_working_on_computer_cartoon_vector_illustration._people_technolog_thumbnail_kcu7es.jpg"/>
+<img align="right" alt="Coding" width="170" height="250" src="https://res.cloudinary.com/johnsonfrancis/image/upload/r_27/v1649076486/Man_working_on_computer_cartoon_vector_illustration._people_technolog_thumbnail_kcu7es.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bameejay&label=Profile%20views&color=0e75b6&style=flat" alt="bameejay" /> </p>
 
