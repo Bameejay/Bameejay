@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bameejay&show_icons=true&locale=en" alt="bameejay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bameejay&" alt="bameejay" /></p>
+
+<b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
