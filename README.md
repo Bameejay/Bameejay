@@ -1,6 +1,13 @@
-![MasterHead](https://res.cloudinary.com/johnsonfrancis/image/upload/v1649079036/tile_background_2_rkzrse.png)
-<h1 align="center">Hi 👋, I'm Johnson Francis</h1>
-<h3 align="center">A passionate web developer and Tech Enthusiast from Lagos, Nigeria.</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bameejay.Bameejay">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Johnson+Francis!+a+Frontend+Developer;&center=true&size=17">
+  </a>
+</h1>
+
+<h1 align="center">I'm Johnson Francis</h1>
+<h3 align="center">A Dedicated Web Developer and Technology Enthusiast  from Lagos, Nigeria.</h3>
 <img align="right" alt="Coding" width="160" height="250" src="https://res.cloudinary.com/johnsonfrancis/image/upload/r_27/v1649076486/Man_working_on_computer_cartoon_vector_illustration._people_technolog_thumbnail_kcu7es.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bameejay&label=Profile%20views&color=0e75b6&style=flat" alt="bameejay" /> </p>
@@ -41,7 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bameejay&" alt="bameejay" /></p>
 
-<b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+<b>**Note**:</b> The top languages displayed here are only a reflection of what I have uploaded on Github and do not represent my actual skill level. 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<img src="https://activity-graph.herokuapp.com/graph?username=Bameejay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
