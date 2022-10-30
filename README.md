@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/bameejay" target="blank"><img src="https://img.shields.io/twitter/follow/bameejay?logo=twitter&style=for-the-badge" alt="bameejay" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 I’m currently working on **Building endless projects**
 
-- 🌱 I’m currently learning **Sass, Bootstrap and JavaScript**
+- 🌱 I’m currently learning **Sass, REACTJS and JavaScript**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Technologies**
 
@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [Work in progress](Work in progress)
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JavaScript**
 
 - 📫 How to reach me **johnsonkayode01@gmail.com**
 
