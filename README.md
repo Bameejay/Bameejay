@@ -50,7 +50,7 @@
 
 <!-- <b>**Note**:</b> The top languages displayed here are only a reflection of what I have uploaded on Github and do not represent my actual skill level.  -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Bameejay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Bameejay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 ## My contribution graph
 ![snake gif](https://github.com/bameejay/bameejay/blob/output/github-contribution-grid-snake.gif)
