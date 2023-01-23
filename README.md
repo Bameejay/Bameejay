@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Building endless projects**
 
-- 🌱 I’m currently learning **Tailwind, REACTJS and JavaScript**
+- 🌱 I’m currently learning **TailwindCSS, REACTJS and JavaScript**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Technologies**
 
@@ -48,7 +48,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bameejay&" alt="bameejay" /></p>
 
-<b>**Note**:</b> The top languages displayed here are only a reflection of what I have uploaded on Github and do not represent my actual skill level. 
+<!-- <b>**Note**:</b> The top languages displayed here are only a reflection of what I have uploaded on Github and do not represent my actual skill level.  -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Bameejay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
