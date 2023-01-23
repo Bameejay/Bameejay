@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Building endless projects**
 
-- 🌱 I’m currently learning **Sass, REACTJS and JavaScript**
+- 🌱 I’m currently learning **Tailwind, REACTJS and JavaScript**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Technologies**
 
