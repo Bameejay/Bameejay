@@ -18,15 +18,15 @@
 
 - 🔭 I’m currently working on **Building endless projects**
 
-- 🌱 I’m currently learning **TailwindCSS, REACTJS and JavaScript**
+- 🌱 I’m currently learning **ReactJS and NextJS**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Technologies**
 
 - 🤝 I’m looking for help with **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [Work in progress](Work in progress)
+- 👨‍💻 All of my projects are available at [Work in progress]
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JavaScript**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript**
 
 - 📫 How to reach me **johnsonkayode01@gmail.com**
 
