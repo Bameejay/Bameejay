@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [Work in progress]
 
-- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **johnsonkayode01@gmail.com**
 
