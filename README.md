@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Technologies**
 
-- 🤝 I’m looking for help with **Backend Technologies**
+- 🤝 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [Work in progress]
 
